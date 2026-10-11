@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/README-banner.png" alt="YaredLab banner" width="100%">
+  <img src="image/lone-knight-at-sunset-animated-wallpaper.png" alt="YaredLab banner" width="100%">
 </p>
 ## Hey, I'm Yared 👋
 
