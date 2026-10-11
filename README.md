@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="images/README-banner.png" alt="YaredLab banner" width="100%">
+</p>
 ## Hey, I'm Yared 👋
 
 ### Aspiring Web Developer | Learning by Building
