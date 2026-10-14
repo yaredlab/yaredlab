@@ -42,8 +42,20 @@ I'm currently practicing, building my portfolio, and looking for opportunities t
 *Learning every day. Building one project at a time.*
 -->
 
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yaredlab/yaredlab/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/yaredlab/yaredlab/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/yaredlab/yaredlab/output/github-snake.svg"
+  />
+  <img
+    alt="github-snake"
+    src="https://raw.githubusercontent.com/yaredlab/yaredlab/output/github-snake.svg"
+    width="100%"
+  />
 </picture>
+
