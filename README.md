@@ -46,6 +46,7 @@ I'm currently practicing, building my portfolio, and looking for opportunities t
 ---
 
 *Learning every day. Building one project at a time.*
+-->
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -61,4 +62,3 @@ I'm currently practicing, building my portfolio, and looking for opportunities t
     width="100%"
   />
 </picture>
--->
