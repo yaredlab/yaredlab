@@ -1,17 +1,10 @@
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <p align="center">
-  <img src="lone-knight-at-sunset-animated-wallpaper.png" alt="YaredLab banner" width="100%" Height="300px">
+  <img
+    src="yaredlab-spider-rain-form.svg"
+    width="100%"
+    alt="YaredLab spider logo forming from digital rain"
+  >
 </p>
-Hey, I'm Yared 👋
-
-### Aspiring Web Developer | Learning by Building
-
-I'm currently learning web development, practicing my skills, and turning creative ideas into real projects.
-
-I enjoy experimenting with modern web design, cinematic visuals, interactive animations, and user experiences that make websites feel different.
-
-I'm still learning, improving, and exploring what I can create with code and AI tools.
 
 ---
 # 💻 Tech Stack:
