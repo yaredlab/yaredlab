@@ -30,7 +30,7 @@ I'm currently practicing, building my portfolio, and looking for opportunities t
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/schemchy) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@schemchy) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/schemchy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yareddefarulab) 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?logo=Telegram&logoColor=white)](https://t.me/Schimchy)
-[![](https://komarev.com/ghpvc/?username=yaredlab&icon=0&color=0)]
+
 
 
 <picture>
